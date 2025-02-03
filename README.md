@@ -1,5 +1,7 @@
 # StraightPoolCounter
 
+## Ignore the screenshot: I can run more than 12 balls, I promise!!! :8ball:
+
 ### Simple HTML, CSS, and JavaScript app to count consecutive shots made playing straight pool.
 
 ### Screenshot
